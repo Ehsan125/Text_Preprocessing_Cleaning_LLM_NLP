@@ -65,3 +65,9 @@ Chunking helps to fit long documents or texts into the context window of LLMs. I
    ```bash
    git clone https://github.com/your-repository-link.git
    cd text-chunking-strategies
+
+2. License:
+   ```
+You can adapt the links and repository names accordingly based on your project specifics.
+
+
